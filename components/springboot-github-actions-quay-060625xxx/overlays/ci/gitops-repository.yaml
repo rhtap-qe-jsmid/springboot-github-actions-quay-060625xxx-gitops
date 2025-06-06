@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: springboot-github-actions-quay-060625xxx-gitops-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/springboot-github-actions-quay-060625xxx-gitops
